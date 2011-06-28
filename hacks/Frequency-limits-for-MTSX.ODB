@@ -1,0 +1,10 @@
+Follow general instructions here:
+    http://www.batlabs.com/mtsx.html
+
+Once you have MTSX.ODB in a hex editor, make the following changes:
+
+1) All "935.0125" strings to "896.0000".
+2) All "901.9875" strings to "940.0000".
+
+It's easiest to just search for 935 or 901, but don't edit those strings that
+appear inside help text (pretty easy to tell inside the hex editor).

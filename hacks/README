@@ -1,3 +1,6 @@
 CPS-R06.12.02-region-unlock.reg
     Registry key hack that enables all regions in CPS.
     Original value of SerializedStrin=UHM
+
+Frequency-limits-for-MTSX.ODB
+    Open up frequency limits for MTX9000 for 33cm ham band.
