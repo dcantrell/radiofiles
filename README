@@ -1,8 +1,9 @@
-Motorola radio files
+Radio data files for Motorola and other manufacturers.
 
-This directory contains Motorola codeplug files for Radio Service Software
-and Customer Programming Software.  The files cover an assortment of
-professional radios from Motorola.
+This directory originally contained Motorola codeplug files for Radio
+Service Software and Customer Programming Software.  The files cover an
+assortment of professional radios from Motorola.  The directory has
+expanded to include radio files for other manufacturers.
 
 You will also file notes, logs, and other hints we have recorded as we learn
 things about using these radios.
