@@ -1,0 +1,12 @@
+Radio models found in the codeplugs/ subdirectory.
+
+DJ-G29
+    Alinco DJ-G29[T] dual band handheld transceiver.  This is a dual
+    220 MHz (VHF) and 902 MHz (UHF) amateur radio.  The software to
+    program the radio comes from www.alinco.com and is simply called
+    "Clone Utility" for this particular radio.  The DJ-G29T is the
+    US version of the radio.
+
+HT750
+    Motorola HT750 handheld radio.  We have the 16 channel UHF versions
+    of these radios.
