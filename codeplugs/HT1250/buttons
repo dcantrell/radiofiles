@@ -1,0 +1,27 @@
+HT1250 button configuration for WH6DSN:
+
+
+Rotary Button: Select Channel (Fixed)
+Top Button:
+    Short Press:  Emergency Siren On
+    Long Press:   Emergency Siren Off
+
+Side Button 1 (Upper):
+    Short Press:  Monitor
+    Long Press:   Sticky Permanent Monitor
+Side Button 2 (Middle):
+    Short Press:  Toggle System Scan On/Off
+    Long Press:   Nuisance Delete
+Side Button 3 (Lower):
+    Short Press:  Toggle Repeater/Talkaround
+    Long Press:   Toggle High/Low Power
+
+Front Button P1:
+    Short Press:  Zone
+    Long Press:   LED Battery Indicator
+Front Button P2:
+    Short Press:  Light
+    Long Press:   Scan List Edit
+Front Button P3:
+    Short Press:  Toggle Tight/Normal Squelch
+    Long Press:   Status
