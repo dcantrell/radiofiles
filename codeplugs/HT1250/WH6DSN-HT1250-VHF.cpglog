@@ -1,0 +1,205 @@
+Radio Rx Freq	Basic Page in Conventional Personality - 1	144.830000	145.43
+Radio Tx Freq	Basic Page in Conventional Personality - 1	145.430000	144.83
+Radio Rx Freq	Basic Page in Conventional Personality - 2	146.220000	146.82
+Radio Tx Freq	Basic Page in Conventional Personality - 2	146.820000	146.22
+Radio Rx Freq	Basic Page in Conventional Personality - 3	146.115000	146.715000
+Radio Tx Freq	Basic Page in Conventional Personality - 3	146.715000	146.115000
+Radio Rx Freq	Basic Page in Conventional Personality - 4	146.010000	146.610000
+Radio Tx Freq	Basic Page in Conventional Personality - 4	146.610000	146.010000
+Radio Rx Freq	Basic Page in Conventional Personality - 5	147.870000	147.270000
+Radio Tx Freq	Basic Page in Conventional Personality - 5	147.270000	147.870000
+Radio Rx Freq	Basic Page in Conventional Personality - 6	146.070000	146.670000
+Radio Tx Freq	Basic Page in Conventional Personality - 6	146.670000	146.070000
+Radio Rx Freq	Basic Page in Conventional Personality - 7	146.190000	146.790000
+Radio Tx Freq	Basic Page in Conventional Personality - 7	146.790000	146.190000
+Radio Rx Freq	Basic Page in Conventional Personality - 21	146.190000	146.995000
+Radio Tx Freq	Basic Page in Conventional Personality - 21	146.995000	146.190000
+Radio Tx Freq	Basic Page in Conventional Personality - 21	146.190000	146.395000
+Radio Rx Freq	Basic Page in Conventional Personality - 22	146.040000	146.640000
+Radio Tx Freq	Basic Page in Conventional Personality - 22	146.640000	146.040000
+Add at the end	Conventional Personality
+Alias	Basic Page in Conventional Personality - 23	Conv Pers 23	147.420
+Chan. BW (kHz)	Basic Page in Conventional Personality - 23	25	12.5
+Radio Rx Freq	Basic Page in Conventional Personality - 23	174.000000	147.420
+Radio Tx Freq	Basic Page in Conventional Personality - 23	174.000000	147.420
+Scan List Index	Scan Page in Conventional Personality - 23	Disabled	Scan-1
+Add at the end	Conventional Personality
+Alias	Basic Page in Conventional Personality - 24	Conv Pers 24	147.450
+Chan. BW (kHz)	Basic Page in Conventional Personality - 24	25	12.5
+Radio Rx Freq	Basic Page in Conventional Personality - 24	174.000000	147.45
+Radio Tx Freq	Basic Page in Conventional Personality - 24	174.000000	147.450
+Scan List Index	Scan Page in Conventional Personality - 24	Disabled	Scan-1
+Add at the end	Conventional Personality
+Alias	Basic Page in Conventional Personality - 25	Conv Pers 25	147.480
+Chan. BW (kHz)	Basic Page in Conventional Personality - 25	25	20
+Chan. BW (kHz)	Basic Page in Conventional Personality - 25	20	12.5
+Radio Rx Freq	Basic Page in Conventional Personality - 25	174.000000	147.480
+Radio Tx Freq	Basic Page in Conventional Personality - 25	174.000000	147.480
+Scan List Index	Scan Page in Conventional Personality - 25	Disabled	Scan-1
+Add at the end	Conventional Personality
+Alias	Basic Page in Conventional Personality - 26	Conv Pers 26	147.510
+Chan. BW (kHz)	Basic Page in Conventional Personality - 26	25	20
+Chan. BW (kHz)	Basic Page in Conventional Personality - 26	20	12.5
+Radio Rx Freq	Basic Page in Conventional Personality - 26	174.000000	147.51
+Radio Tx Freq	Basic Page in Conventional Personality - 26	174.000000	147.51
+Scan List Index	Scan Page in Conventional Personality - 26	Disabled	Scan-1
+Add at the end	Conventional Personality
+Alias	Basic Page in Conventional Personality - 27	Conv Pers 27	147.540
+Chan. BW (kHz)	Basic Page in Conventional Personality - 27	25	20
+Chan. BW (kHz)	Basic Page in Conventional Personality - 27	20	12.5
+Radio Rx Freq	Basic Page in Conventional Personality - 27	174.000000	147.540
+Radio Tx Freq	Basic Page in Conventional Personality - 27	174.000000	147.540
+Scan List Index	Scan Page in Conventional Personality - 27	Disabled	Scan-1
+Add at the end	
+Personality	 - 2	Conventional-1	Conventional-23
+Add at the end	
+Personality	 - 3	Conventional-1	Conventional-24
+Add at the end	
+Personality	 - 4	Conventional-1	Conventional-25
+Add at the end	
+Personality	 - 5	Conventional-1	Conventional-26
+Add at the end	
+Personality	 - 6	Conventional-1	Conventional-26
+Personality	 - 6	Conventional-26	Conventional-27
+Alias	Zone Page in Personality Assignment to Zone - 5	TWO METER	MA 2M
+Add at the end	Conventional Personality
+Alias	Basic Page in Conventional Personality - 28	Conv Pers 28	Berlin 145.11
+Chan. BW (kHz)	Basic Page in Conventional Personality - 28	25	20
+Chan. BW (kHz)	Basic Page in Conventional Personality - 28	20	12.5
+Radio Rx Freq	Basic Page in Conventional Personality - 28	174.000000	145.11
+Rx Squelch Code Type	Basic Page in Conventional Personality - 28	CSQ	TPL
+Rx Squelch Code Type	Basic Page in Conventional Personality - 28	TPL	DPL
+Rx Squelch Code Type	Basic Page in Conventional Personality - 28	DPL	TPL
+Rx TPL Frequency	Basic Page in Conventional Personality - 28	67.0	100
+Radio Tx Freq	Basic Page in Conventional Personality - 28	174.000000	144.51
+Tx Squelch Code Type	Basic Page in Conventional Personality - 28	CSQ	TPL
+Tx TPL Frequency	Basic Page in Conventional Personality - 28	67.0	100
+Tx TPL Reverse Burst	Basic Page in Conventional Personality - 28	Checked	UnChecked
+Talkaround	 Options Page in Conventional Personality - 28	UnChecked	Checked
+Scan List Index	Scan Page in Conventional Personality - 28	Disabled	Scan-1
+Add at the end	Conventional Personality
+Alias	Basic Page in Conventional Personality - 29	Conv Pers 29	Cannon 145.43
+Chan. BW (kHz)	Basic Page in Conventional Personality - 29	25	20
+Chan. BW (kHz)	Basic Page in Conventional Personality - 29	20	12.5
+Radio Rx Freq	Basic Page in Conventional Personality - 29	174.000000	145.43
+Rx Squelch Code Type	Basic Page in Conventional Personality - 29	CSQ	TPL
+Rx Squelch Code Type	Basic Page in Conventional Personality - 29	TPL	CSQ
+Radio Tx Freq	Basic Page in Conventional Personality - 29	174.000000	144.83
+Tx Squelch Code Type	Basic Page in Conventional Personality - 29	CSQ	TPL
+Tx TPL Frequency	Basic Page in Conventional Personality - 29	67.0	114.8
+Tx TPL Reverse Burst	Basic Page in Conventional Personality - 29	Checked	UnChecked
+Talkaround	 Options Page in Conventional Personality - 29	UnChecked	Checked
+Scan List Index	Scan Page in Conventional Personality - 29	Disabled	Scan-1
+Add at the end	Conventional Personality
+Alias	Basic Page in Conventional Personality - 30	Conv Pers 30	NConway 145.45
+Chan. BW (kHz)	Basic Page in Conventional Personality - 30	25	20
+Chan. BW (kHz)	Basic Page in Conventional Personality - 30	20	12.5
+Radio Rx Freq	Basic Page in Conventional Personality - 30	174.000000	145.45
+Radio Tx Freq	Basic Page in Conventional Personality - 30	174.000000	144.85
+Tx Squelch Code Type	Basic Page in Conventional Personality - 30	CSQ	TPL
+Tx TPL Frequency	Basic Page in Conventional Personality - 30	67.0	100
+Tx TPL Reverse Burst	Basic Page in Conventional Personality - 30	Checked	UnChecked
+Talkaround	 Options Page in Conventional Personality - 30	UnChecked	Checked
+Scan List Index	Scan Page in Conventional Personality - 30	Disabled	Scan-1
+Add at the end	Conventional Personality
+Alias	Basic Page in Conventional Personality - 31	Conv Pers 31	MtWash 146.665
+Chan. BW (kHz)	Basic Page in Conventional Personality - 31	25	20
+Chan. BW (kHz)	Basic Page in Conventional Personality - 31	20	12.5
+Radio Rx Freq	Basic Page in Conventional Personality - 31	174.000000	146.665
+Radio Tx Freq	Basic Page in Conventional Personality - 31	174.000000	146.065
+Tx Squelch Code Type	Basic Page in Conventional Personality - 31	CSQ	TPL
+Tx TPL Frequency	Basic Page in Conventional Personality - 31	67.0	100
+Tx TPL Reverse Burst	Basic Page in Conventional Personality - 31	Checked	UnChecked
+Talkaround	 Options Page in Conventional Personality - 31	UnChecked	Checked
+Scan List Index	Scan Page in Conventional Personality - 31	Disabled	Scan-1
+Add at the end	Conventional Personality
+Alias	Basic Page in Conventional Personality - 32	Conv Pers 32	Hollis 146.73
+Chan. BW (kHz)	Basic Page in Conventional Personality - 32	25	20
+Chan. BW (kHz)	Basic Page in Conventional Personality - 32	20	12.5
+Radio Rx Freq	Basic Page in Conventional Personality - 32	174.000000	146.730
+Rx Squelch Code Type	Basic Page in Conventional Personality - 32	CSQ	TPL
+Rx TPL Frequency	Basic Page in Conventional Personality - 32	67.0	88.5
+Radio Tx Freq	Basic Page in Conventional Personality - 32	174.000000	146.13
+Tx Squelch Code Type	Basic Page in Conventional Personality - 32	CSQ	TPL
+Tx TPL Frequency	Basic Page in Conventional Personality - 32	67.0	88.5
+Tx TPL Reverse Burst	Basic Page in Conventional Personality - 32	Checked	UnChecked
+Talkaround	 Options Page in Conventional Personality - 32	UnChecked	Checked
+Scan List Index	Scan Page in Conventional Personality - 32	Disabled	Scan-1
+Add at the end	Conventional Personality
+Alias	Basic Page in Conventional Personality - 33	Conv Pers 33	Gfstwn 147.135
+Chan. BW (kHz)	Basic Page in Conventional Personality - 33	25	20
+Chan. BW (kHz)	Basic Page in Conventional Personality - 33	20	12.5
+Radio Rx Freq	Basic Page in Conventional Personality - 33	174.000000	147.135
+Rx Squelch Code Type	Basic Page in Conventional Personality - 33	CSQ	TPL
+Rx TPL Frequency	Basic Page in Conventional Personality - 33	67.0	100
+Radio Tx Freq	Basic Page in Conventional Personality - 33	174.000000	147.735
+Tx Squelch Code Type	Basic Page in Conventional Personality - 33	CSQ	TPL
+Tx TPL Frequency	Basic Page in Conventional Personality - 33	67.0	100
+Tx TPL Reverse Burst	Basic Page in Conventional Personality - 33	Checked	UnChecked
+Talkaround	 Options Page in Conventional Personality - 33	UnChecked	Checked
+Scan List Index	Scan Page in Conventional Personality - 33	Disabled	Scan-1
+Add at the end	Conventional Personality
+Alias	Basic Page in Conventional Personality - 34	Conv Pers 34	Nashua 147.045
+Chan. BW (kHz)	Basic Page in Conventional Personality - 34	25	20
+Chan. BW (kHz)	Basic Page in Conventional Personality - 34	20	12.5
+Radio Rx Freq	Basic Page in Conventional Personality - 34	174.000000	147.045
+Rx Squelch Code Type	Basic Page in Conventional Personality - 34	CSQ	TPL
+Rx TPL Frequency	Basic Page in Conventional Personality - 34	67.0	100
+Radio Tx Freq	Basic Page in Conventional Personality - 34	174.000000	147.645
+Talkaround	 Options Page in Conventional Personality - 34	UnChecked	Checked
+Scan List Index	Scan Page in Conventional Personality - 34	Disabled	Scan-1
+Add at the end	Conventional Personality
+Alias	Basic Page in Conventional Personality - 35	Conv Pers 35	Deerfield 147
+Chan. BW (kHz)	Basic Page in Conventional Personality - 35	25	20
+Chan. BW (kHz)	Basic Page in Conventional Personality - 35	20	12.5
+Radio Rx Freq	Basic Page in Conventional Personality - 35	174.000000	147
+Rx Squelch Code Type	Basic Page in Conventional Personality - 35	CSQ	TPL
+Rx TPL Frequency	Basic Page in Conventional Personality - 35	67.0	100
+Radio Tx Freq	Basic Page in Conventional Personality - 35	174.000000	146.4
+Tx Squelch Code Type	Basic Page in Conventional Personality - 35	CSQ	TPL
+Tx TPL Frequency	Basic Page in Conventional Personality - 35	67.0	100
+Tx TPL Reverse Burst	Basic Page in Conventional Personality - 35	Checked	UnChecked
+Talkaround	 Options Page in Conventional Personality - 35	UnChecked	Checked
+Scan List Index	Scan Page in Conventional Personality - 35	Disabled	Scan-1
+Add at the end	Conventional Personality
+Alias	Basic Page in Conventional Personality - 36	Conv Pers 36	BarHrbr 147.03
+Chan. BW (kHz)	Basic Page in Conventional Personality - 36	25	20
+Chan. BW (kHz)	Basic Page in Conventional Personality - 36	20	12.5
+Radio Rx Freq	Basic Page in Conventional Personality - 36	174.000000	147.03
+Radio Tx Freq	Basic Page in Conventional Personality - 36	174.000000	147.63
+Tx Squelch Code Type	Basic Page in Conventional Personality - 36	CSQ	TPL
+Tx TPL Frequency	Basic Page in Conventional Personality - 36	67.0	100
+Tx TPL Reverse Burst	Basic Page in Conventional Personality - 36	Checked	UnChecked
+Talkaround	 Options Page in Conventional Personality - 36	UnChecked	Checked
+Scan List Index	Scan Page in Conventional Personality - 36	Disabled	Scan-1
+Alias	Basic Page in Conventional Personality - 28	Berlin 145.11	BERLIN 145.11
+Alias	Basic Page in Conventional Personality - 29	Cannon 145.43	CANNON 145.43
+Alias	Basic Page in Conventional Personality - 30	NConway 145.45	NCONWAY 145.45
+Alias	Basic Page in Conventional Personality - 31	MtWash 146.665	MTWASH 146.665
+Alias	Basic Page in Conventional Personality - 32	Hollis 146.73	HOLLIS 146.73
+Alias	Basic Page in Conventional Personality - 33	Gfstwn 147.135	GFSTWN 147.135
+Alias	Basic Page in Conventional Personality - 34	Nashua 147.045	NASHUA 147.045
+Alias	Basic Page in Conventional Personality - 35	Deerfield 147	DEERFIELD 147
+Alias	Basic Page in Conventional Personality - 36	BarHrbr 147.03	BARHRBR 147.03
+Add at the end	Personality Assignment to Zone
+Alias	Zone Page in Personality Assignment to Zone - 6	Per Asgnmt 6	WHITE MTNS
+Personality	 - 1	Conventional-1	Conventional-28
+Add at the end	
+Insert	 at position 2
+Add at the end	
+Personality	 - 2	Conventional-1	Conventional-29
+Personality	 - 3	Conventional-1	Conventional-30
+Personality	 - 4	Conventional-1	Conventional-31
+Add at the end	Personality Assignment to Zone
+Alias	Zone Page in Personality Assignment to Zone - 7	Per Asgnmt 7	SOUTH NH
+Personality	 - 1	Conventional-1	Conventional-32
+Add at the end	
+Add at the end	
+Add at the end	
+Personality	 - 2	Conventional-1	Conventional-33
+Personality	 - 3	Conventional-1	Conventional-34
+Personality	 - 4	Conventional-1	Conventional-35
+Add at the end	Personality Assignment to Zone
+Alias	Zone Page in Personality Assignment to Zone - 8	Per Asgnmt 8	MAINE
+Personality	 - 1	Conventional-1	Conventional-36
+Alias	Zone Page in Personality Assignment to Zone - 5	MA 2M	EAST MASS
