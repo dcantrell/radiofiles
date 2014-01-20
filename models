@@ -10,3 +10,10 @@ DJ-G29
 HT750
     Motorola HT750 handheld radio.  We have the 16 channel UHF versions
     of these radios.
+
+HT1250
+    Motorola HT1250 handheld radio.  We have the 128 channel limited
+    keypad VHF models.  Model AAH25KDF9AA5AN.  This model can do some
+    trunking and signaling, but that doesn't matter for us as we will
+    only ever use them in conventional mode.  You can use zones though
+    to group the conventional frequencies, which is really nice.
