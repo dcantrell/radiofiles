@@ -19,3 +19,12 @@ HLN9820A    07-Mar-2012  Waris accessory port cover (dust cover)           6.93
 
 HKVN4046A   08-Apr-2015  20/25 KHz channel entitlement for TRBO CPS        0.00
    (note: requires completion of FCC narrowbanding training)
+
+HKVN4180A   08-Apr-2015  20/25 KHz channel entitlement for Waris CPS       0.00
+   (note: requires completion of FCC narrowbanding training)
+
+   *NOTE* The narrowband entitlement keys are available to you after you
+   complete the online training which is called PRD0001.00E.  There is
+   no way around this, regardless of your industry or license type.  You
+   also need to get these keys rather than hack the registry to enable
+   narrowband programming so it won't mess with your CPS subscription.
