@@ -10,6 +10,7 @@ HVN9025Y    07-Jun-2011  CPS R06.12.02 HT/CDM/EX (Waris software)        265.00
 NAE6483AR   07-Mar-2012  UHF (low) antenna for Waris radios               11.75
 AARKN4074A  07-Jun-2011  Waris programming cable (RIB required)           63.00
 HLN9820A    07-Mar-2012  Waris accessory port cover (dust cover)           6.93
+            23-Jan-2019  Dust cover (min quantity is 5)                    7.70
 
 3205514W01  08-Jul-2011  Jedi series ant. side connector port cover        3.99
 0105959N54  08-Jul-2011  Jedi series belt clip                            22.75
@@ -28,3 +29,9 @@ HKVN4180A   08-Apr-2015  20/25 KHz channel entitlement for Waris CPS       0.00
    no way around this, regardless of your industry or license type.  You
    also need to get these keys rather than hack the registry to enable
    narrowband programming so it won't mess with your CPS subscription.
+
+HVN9067J    23-Jan-2019  CSP R02.01.03 MTX850/8250 950/9250              117.00
+   (likely actually CPS for these radios and the description is a type)
+
+HNN9009AR  23-Jan-2019  Premiun NiMH, 1900 mAh 7.2V Waris battery         75.00
+   (battery for MTX9250 and probably other Waris radios)
