@@ -17,3 +17,10 @@ HT1250
     trunking and signaling, but that doesn't matter for us as we will
     only ever use them in conventional mode.  You can use zones though
     to group the conventional frequencies, which is really nice.
+
+MTX9250
+    Motorola MTX9250 handheld radio, a 900MHz radio.  This radio looks
+    very similar to the styling of the Waris radios, but it uses
+    different firmware and also a completely different version of CPS
+    to program it.  It does trunking and conventional and is set up in
+    zones similar to the Waris radios.
