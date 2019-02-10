@@ -1,0 +1,47 @@
+CPS R02.01.03 is the "Motorola Professional Trunking CPS" which can speak
+to MTX8250 and MTX9250 radios, the latter being the useful one for ham
+radio.
+
+The default frequency limits will not let you program ham radio
+frequencies.
+
+MODIFY THE FREQUENCY LIMITS
+
+1) Make a copy of cps_95nt.exe to something like cps_95nt_orig.exe
+
+2) Open cps_95nt.exe in a hex editor.
+
+3) Find all of these strings:
+
+       94 28 BB 37
+
+   and replace it with:
+
+       D4 10 68 35
+
+   It should be noted that those are hexidecimal byte values.
+
+4) Save and exit.
+
+When you run CPS, you should be able to program ham frequencies.  This
+hack also prevents CPS from silently adjusted out of band frequencies to
+either the low or high edge without your knowing (this is useful if you
+open a codeplug file from another ham).
+
+CLONING RADIOS
+
+Cloning one radio's codeplug to another saves an enormous amount of time
+because the CPS user interface is nearly unusable.  However, since the
+MTX9250 really wants to be a trunking radio, CPS is built to work in that
+world.  Cloning first ensures you have the system keys for the System ID
+in the radio you are cloning before it will let you write out the data to
+another radio.  Don't have a System ID in your radio?  Awesome!  It's
+really luck of the draw on eBay.
+
+I followed these instructions:
+
+    http://www.batlabs.com/syskey.html
+
+And it did not work.  hamfiles has skeygen.exe which generated a working
+system key file called SYS0A824.KEY.  The contents are entirely different
+from what Batlabs suggested.
