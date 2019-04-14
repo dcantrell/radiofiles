@@ -24,3 +24,12 @@ MTX9250
     different firmware and also a completely different version of CPS
     to program it.  It does trunking and conventional and is set up in
     zones similar to the Waris radios.
+
+XPR7550
+    Motorola MOTOTRBO XPR7550 radio, both the VHF and UHF versions.  The
+    DMR radio series from Motorola.  The 7550 is now discontinued and
+    replaced with the 7550e.  The XPR7550 works great in conventional mode
+    too and has plenty of room for lots of zones and channels.  FPP is
+    available via third party firmware on the option board.  None of the
+    Waris accessories work on the MOTOTRBO radios, especially and including
+    the antennas.
