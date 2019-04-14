@@ -1,0 +1,73 @@
+Side Button 3 - Short Press	Conventional Side Buttons Page in Conventional Buttons	Toggle Repeater/Talkaround	Toggle High/Low Power
+Side Button 3 - Long Press	Conventional Side Buttons Page in Conventional Buttons	Toggle High/Low Power	Toggle Repeater/Talkaround
+Add at the end	Conventional Personality
+Alias	Basic Page in Conventional Personality - 37	Conv Pers 37	KILL DEVIL 145
+Radio Rx Freq	Basic Page in Conventional Personality - 37	174.000000	145.110
+Rx Squelch Code Type	Basic Page in Conventional Personality - 37	CSQ	TPL
+Rx TPL Frequency	Basic Page in Conventional Personality - 37	67.0	131.8
+Radio Tx Freq	Basic Page in Conventional Personality - 37	174.000000	144.51
+Tx Squelch Code Type	Basic Page in Conventional Personality - 37	CSQ	TPL
+Tx TPL Frequency	Basic Page in Conventional Personality - 37	67.0	131.8
+Tx TPL Reverse Burst	Basic Page in Conventional Personality - 37	Checked	UnChecked
+Scan List Index	Scan Page in Conventional Personality - 37	Disabled	Scan-1
+Add at the end	Conventional Personality
+Alias	Basic Page in Conventional Personality - 38	Conv Pers 38	RODANTHE 145
+Radio Rx Freq	Basic Page in Conventional Personality - 38	174.000000	145.29
+Rx Squelch Code Type	Basic Page in Conventional Personality - 38	CSQ	TPL
+Rx TPL Frequency	Basic Page in Conventional Personality - 38	67.0	131.8
+Radio Tx Freq	Basic Page in Conventional Personality - 38	174.000000	144.69
+Tx Squelch Code Type	Basic Page in Conventional Personality - 38	CSQ	TPL
+Tx TPL Frequency	Basic Page in Conventional Personality - 38	67.0	131.8
+Tx TPL Reverse Burst	Basic Page in Conventional Personality - 38	Checked	UnChecked
+Add at the end	Conventional Personality
+Alias	Basic Page in Conventional Personality - 39	Conv Pers 39	BUXTON 145
+Radio Rx Freq	Basic Page in Conventional Personality - 39	174.000000	145.150
+Rx Squelch Code Type	Basic Page in Conventional Personality - 39	CSQ	TPL
+Rx TPL Frequency	Basic Page in Conventional Personality - 39	67.0	131.8
+Radio Tx Freq	Basic Page in Conventional Personality - 39	174.000000	144.55
+Tx Squelch Code Type	Basic Page in Conventional Personality - 39	CSQ	TPL
+Tx TPL Frequency	Basic Page in Conventional Personality - 39	67.0	131.8
+Tx TPL Reverse Burst	Basic Page in Conventional Personality - 39	Checked	UnChecked
+Add at the end	Conventional Personality
+Alias	Basic Page in Conventional Personality - 40	Conv Pers 40	BUXTON 146
+Radio Rx Freq	Basic Page in Conventional Personality - 40	174.000000	146.625
+Rx Squelch Code Type	Basic Page in Conventional Personality - 40	CSQ	TPL
+Rx TPL Frequency	Basic Page in Conventional Personality - 40	67.0	131.8
+Radio Tx Freq	Basic Page in Conventional Personality - 40	174.000000	146.025
+Tx Squelch Code Type	Basic Page in Conventional Personality - 40	CSQ	TPL
+Tx TPL Frequency	Basic Page in Conventional Personality - 40	67.0	131.8
+Tx TPL Reverse Burst	Basic Page in Conventional Personality - 40	Checked	UnChecked
+Add at the end	Conventional Personality
+Alias	Basic Page in Conventional Personality - 41	Conv Pers 41	COLUMBIA 146
+Radio Rx Freq	Basic Page in Conventional Personality - 41	174.000000	146.835
+Rx Squelch Code Type	Basic Page in Conventional Personality - 41	CSQ	TPL
+Rx TPL Frequency	Basic Page in Conventional Personality - 41	67.0	131.8
+Radio Tx Freq	Basic Page in Conventional Personality - 41	174.000000	146.235
+Tx Squelch Code Type	Basic Page in Conventional Personality - 41	CSQ	TPL
+Tx TPL Frequency	Basic Page in Conventional Personality - 41	67.0	131.8
+Tx TPL Reverse Burst	Basic Page in Conventional Personality - 41	Checked	UnChecked
+Add at the end	Conventional Personality
+Alias	Basic Page in Conventional Personality - 42	Conv Pers 42	ELIZ CITY 146
+Radio Rx Freq	Basic Page in Conventional Personality - 42	174.000000	146.655
+Rx Squelch Code Type	Basic Page in Conventional Personality - 42	CSQ	TPL
+Rx TPL Frequency	Basic Page in Conventional Personality - 42	67.0	131.8
+Radio Tx Freq	Basic Page in Conventional Personality - 42	174.000000	146.055
+Tx Squelch Code Type	Basic Page in Conventional Personality - 42	CSQ	TPL
+Tx TPL Frequency	Basic Page in Conventional Personality - 42	67.0	131.8
+Tx TPL Reverse Burst	Basic Page in Conventional Personality - 42	Checked	UnChecked
+Add at the end	Personality Assignment to Zone
+Alias	Zone Page in Personality Assignment to Zone - 9	Per Asgnmt 9	OBX
+Personality	 - 1	Conventional-1	Conventional-36
+Personality	 - 1	Conventional-36	Conventional-37
+Add at the end	Personality Assignment to Zone
+Delete	Personality Assignment to Zone number 10
+Add at the end	
+Personality	 - 2	Conventional-1	Conventional-38
+Add at the end	
+Personality	 - 3	Conventional-1	Conventional-39
+Add at the end	
+Personality	 - 4	Conventional-1	Conventional-40
+Add at the end	
+Personality	 - 5	Conventional-1	Conventional-41
+Add at the end	
+Personality	 - 6	Conventional-1	Conventional-42

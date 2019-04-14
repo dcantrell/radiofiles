@@ -1,0 +1,83 @@
+File - MTX9250_010719.txt
+
+Buttons
+Orange - backlight
+SB1    - Monitor
+SB2    - Scan
+SB3    - Nuisance Delete
+
+Zone MA
+
+01 927.500
+02 GEMOTO
+03 Boston
+04 Waltham
+05 Framingham
+06 Marlboro
+07 Salem
+08 Ashland
+09 Littleton
+10 Worcester
+11 Fitchburg
+12 Pepperell
+13 Georgetown
+14 Holyoke
+15 Greylock
+16 Feeding Hills
+
+
+Zone ma
+
+01 927.500
+02 GEMOTO
+03 Abington 1
+04 Marshfield
+05 Abington 2
+06 Bridgewater
+07 Falmouth
+08 N Attleboro
+09 Whitman
+10 Rehoboth
+11 Wrentham
+12 Fal Rivr S
+13 Fal Rivr N
+14 Dartmouth
+15 Hanson
+16 Barnstble
+
+
+Zone NH
+
+01 927.500
+02 GEMOTO
+03 Goffstown
+04 Deerfield
+05 w Lebanon
+06 Ossipee
+
+
+Zone RI
+
+01 927.500
+02 GEMOTO
+03 Cumberland
+04 N Providnce
+05 Warwick
+06 PVDNCE RWX
+
+
+Zone VT
+
+01 927.500
+02 GEMOTO
+03 Williamstwn
+
+
+Zone CT
+
+01 927.500
+02 GEMOTO
+03 Norwich
+04 Hamden
+05 Branford
+
