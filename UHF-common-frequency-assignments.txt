@@ -1,0 +1,41 @@
+Using 16 channels on a programmable UHF radio, we can mix GMRS, FRS,
+and LMR frequencies.  All channels are simplex, meaning the frequency
+listed is the Tx and Rx frequency.
+
+These channels will all use 11K2F3E or 7K60FXW emission.  11K2F3E is
+analog FM with 2.5 khz deviation, also known as "narrowband 12.5 khz".
+7K60FXW is 2-slot DMR (Motorola MOTOTRBO) TDMA data + voice and is
+only allowed on the non-FRS and non-GMRS channels.  In practice we
+make everything analog.
+
+Channel    Frequency    PL      Bandwidth    Service
+ 1         462.5625     141.3   20 kHz       GMRS/FRS
+ 2         462.5875     141.3   20 kHz       GMRS/FRS
+ 3         462.6125     141.3   20 kHz       GMRS/FRS
+ 4         462.6375     141.3   20 kHz       GMRS/FRS
+ 5         462.6625     141.3   20 kHz       GMRS/FRS
+ 6         462.6875     141.3   20 kHz       GMRS/FRS
+ 7         462.7125     141.3   20 kHz       GMRS/FRS
+ 8         462.5500     141.3   20 kHz       GMRS/FRS
+ 9         462.5750     141.3   20 kHz       GMRS/FRS
+10         462.6000     141.3   20 kHz       GMRS/FRS
+11         462.6250     141.3   20 kHz       GMRS/FRS
+12         456.8000     141.3   12.5 kHz     LMR
+13         464.5000     141.3   12.5 kHz     LMR
+14         464.5500     141.3   12.5 kHz     LMR
+15         469.5000     141.3   12.5 kHz     LMR
+16         469.5500     141.3   12.5 kHz     LMR
+
+For the LMR frequencies, be sure to use the commercial license for the
+group.  Likewise with GMRS.  The group license if it's just family,
+otherwise everyone has to have a call.  The dual GMRS/FRS channels can
+alleviate the need to constantly ID if you have a large mixed group.
+
+NOTE: The power output on the GMRS/FRS channels is set to maximum so
+technically that makes them GMRS frequencies and the ID'ing is
+required.  However, these channels are most useful for groups that
+have FRS purpose built radios mixed in with these radios.  If you know
+you'll have that, you can allocate some FRS channels to be low power
+(or switch to low power when on the channel).  You're still at 1 watt
+likely and using a radio with a detachable antenna, but...well,
+whatever.
